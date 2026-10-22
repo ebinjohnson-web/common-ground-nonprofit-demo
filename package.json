@@ -1,0 +1,8 @@
+{
+  "name": "common-ground-nonprofit-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "node tools/preview.mjs", "check": "node --check docs/script.js && node tools/check.mjs" },
+  "engines": { "node": ">=18" }
+}
